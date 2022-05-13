@@ -34,6 +34,15 @@
   width: 1000px;
   
 }
+#textoh {
+position: relative;
+  left: 30px;
+margin-top: -35px;
+  font-family: "Trirong", serif;
+  font-size: 20px;
+  color:#504e4e
+
+}
 .container {
   overflow: hidden;
   background-color: #ffffff;
@@ -41,11 +50,12 @@
 
 .sidebar {
   float: left; 
-  width: 140px;               
+  width: 150px;               
   height: 2000px;
   
   background-color: #ffffff;
 }
+
 
 .content {
   float: left;
