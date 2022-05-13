@@ -1,0 +1,171 @@
+.menu-container {
+  display: flex;
+  justify-content: center;
+ font-family: "Trirong", serif;
+  font-size: 20px;
+  color: #000000;
+  background-color: #ffffff;  
+ 
+  
+}
+
+.menu {
+  border-bottom: 6px solid #ebebeb;
+  width: 1350px;
+  height: 30px;
+  display: flex;
+   justify-content: space-between;
+  
+}
+.about {
+  margin-left: auto;
+  
+}
+
+.amenu {
+  margin-left: 20px;
+}
+
+.contact {
+  margin-left: 20px;
+}
+.hamburger-imge{
+  
+  width: 1000px;
+  
+}
+.container {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.sidebar {
+  float: left; 
+  width: 140px;               
+  height: 2000px;
+  
+  background-color: #ffffff;
+}
+
+.content {
+  float: left;
+  width: 800px;    
+  height: 500px;
+   padding: 50px 100px;
+  background-color: #ffffff;    
+}
+.article-image {
+  float: left;
+  width: 370px;
+  height: 500px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+ h1{
+   font-size: 27px;
+  text-align: center;
+   font-family: Georgia, serif;
+}
+h2{
+  text-align: center;
+   font-family: Georgia, serif;
+  font-size: 20px;
+}
+.paD{
+  color: #a7aaa8;
+  
+}
+strong {
+  background-color: #B2D6FF; /* Azul claro */
+ display: inline;   /* Esse é o padrão para em e strong */
+}
+.linha{
+  float: left;
+  width: 800px;  
+
+
+  
+}
+.contenter {
+  float: left;
+  width: 800px;    
+  height: 500px;
+   padding: 50px 100px;
+  background-color: #ffffff;    
+}
+.article-imageer {
+  float: right;
+  width: 370px;
+  height: 500px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+ h3{
+   font-size: 27px;
+  text-align: center;
+   font-family: Georgia, serif;
+}
+.titulos{
+  text-align: left;
+   font-family: Georgia, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.linhaer{
+  float: left;
+  width: 800px;   
+ 
+}
+
+
+.contentert {
+  float: left;
+  width: 800px;    
+  height: 500px;
+   padding: 50px 100px;
+  background-color: #ffffff;    
+}
+
+ h4{
+   font-size: 27px;
+  text-align: left;
+   font-family: Georgia, serif;
+}
+h5{
+  text-align: left;
+   font-family: Georgia, serif;
+  font-size: 17px;
+  font-weight: bold
+   background-color: #fffff;
+    color: #6ca0e4; 
+}
+.palaForm{
+ color:  #8b8e92; 
+}
+.linhaert{
+  float: left;
+  width: 800px;   
+ 
+}
+.btm{
+  color: #000000;
+  background-color: #d0d2d1;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 15px;
+
+  
+   width: 200px;
+  box-sizing: border-box;
+}
+
+.finalPag{
+   text-align: center;
+  font-size: 25px;
+  background-color: #ed7d7d;
+  padding: 50px 0 50px 10px;  /* Superior Direita Inferior Esquerda */
+  margin-top: 25px;
+  margin-bottom: 50px; 
+ 
+}
